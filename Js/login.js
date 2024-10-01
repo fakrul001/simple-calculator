@@ -10,5 +10,5 @@ document.getElementById('btn-login').addEventListener('click', function(event){
     else{
         alert('Wrong Phone Number or Pin')
     }
-    Window.location.href = '/home.html'
+    window.location.href = '/home.html'
 })
